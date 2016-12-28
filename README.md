@@ -1,4 +1,3 @@
-# parkingRPI
 Proyecto de la asignatura "Sistemas distribuidos y Servicios Web" correspondiente a 4º de Grado en Ingeniería de las tecnologías de las telecomunicaciones.
 
 #Introducción#
